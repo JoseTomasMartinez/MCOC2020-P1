@@ -1,5 +1,4 @@
 #Jose Tomas Martinez Lavin
-#https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html
 import scipy as sp
 from scipy.integrate import odeint
 from numpy import *
