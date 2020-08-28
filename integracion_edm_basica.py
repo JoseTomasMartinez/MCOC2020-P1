@@ -35,16 +35,3 @@ plt.plot(x,y)
 
 plt.show()
 
-
-"""
-plt.plot(x1,y1,label="$V$ = 10.0 m/s")
-plt.plot(x2,y2,label="$V$ = 20.0 m/s")
-plt.ylim(0,50)
-plt.xlim(0,150)
-plt.grid()
-plt.title("Trayectoria para distintos vientos")
-plt.ylabel("Y(m)")
-plt.xlabel("X(m)")
-plt.legend()
-plt.savefig("Trayectoria para distintos vientos.png")
-"""
