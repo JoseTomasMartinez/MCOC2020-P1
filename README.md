@@ -8,6 +8,9 @@
 
 ![myimage-alt-tag](https://github.com/JoseTomasMartinez/MCOC2020-P1/blob/master/Deriva%20entre%20predicciones%20Euler%20y%20Odeint.png)
 
+* El metodo odeint demora aproximadamente 0,3 segundos, mientras que el de eulerint demora 0,9 (considerando una subdivision)
+
+
 
 
 
