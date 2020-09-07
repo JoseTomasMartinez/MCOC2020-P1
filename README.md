@@ -12,7 +12,7 @@
 
 * El metodo odeint demora aproximadamente 0,3 segundos, mientras que el de eulerint demora 0,9 (considerando una subdivision)
 
-
+* P3. Se tomó el último punto para determinar el error. Sin embargo, para 100 subdivisiones el error era altísimo y se demoró mas de una hora en ser calculado. Por lo que era muy dificil saber cuantas subdivisiones se debían hacer.
 
 
 
