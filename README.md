@@ -14,5 +14,10 @@
 
 * P3. Se tomó el último punto para determinar el error. Sin embargo, para 100 subdivisiones el error era altísimo y se demoró mas de una hora en ser calculado. Por lo que era muy dificil saber cuantas subdivisiones se debían hacer.
 
+ Desde aquí la parte que no fue agregada la primera vez que se entregó
+* P4. Se logra implementar J2 y J3, reduciendo la deriva a 7000 km aproximadamente.
 
+![myimage-alt-tag](https://github.com/JoseTomasMartinez/MCOC2020-P1/blob/master/Deriva%20entre%20predicciones%20Euler%20y%20Odeint%20J2%20y%20J3.png)
 
+El programa demora 13.9 segundos en correr.
+* Para la última entrega no hay antecedentes, por lo que la entrega 7 es la primera y última. No hubo trials.
